@@ -1,9 +1,9 @@
 #   CLOUD RESUME CHALLENGE
 
 
-### Architecture Overview
+## Architecture Overview
 
-#### Purpose:
+### Purpose:
 
 The purpose of this project is to bridge the gap between theoretical cloud knowledge and practical skills by building a functional cloud-based resume website.
 
