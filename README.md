@@ -1,7 +1,7 @@
 #   AWS CLOUD RESUME CHALLENGE
 
 
-## Architecture Overview
+## Architectural Overview
 
 ### Purpose:
 
