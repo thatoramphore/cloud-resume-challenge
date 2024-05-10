@@ -5,7 +5,7 @@
 
 ### Purpose:
 
-The purpose of this project is to build and demonstrate skills fundamental to pursuing a career in cloud by building a functional cloud-based resume website. This challenge was published by Forrest Brazeal.
+The purpose of this project is to build and demonstrate skills fundamental to pursuing a career in cloud by building a functional cloud-based static website. This challenge was originally published by Forrest Brazeal.
 
 ![Architectural Light](https://github.com/thatoramphore/cloud-resume-challenge/assets/75572984/4bb7cc8a-6804-445d-b8c6-04a8b269d770)
 
